@@ -1,0 +1,6 @@
+#Task1: Even Odd Program
+n=int(input("Enter a number: "))
+if n%2==0:
+    print(n,"is an even number.")
+else:
+    print(n,"is an odd number.")
